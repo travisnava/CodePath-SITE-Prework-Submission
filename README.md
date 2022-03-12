@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![X] <img src='https://cdn.glitch.global/3aaadf0a-5c6a-4335-b918-f23372c1a0bc/walkthrough1.gif?v=1647061539628' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![X] <img src='https://cdn.glitch.global/3aaadf0a-5c6a-4335-b918-f23372c1a0bc/walkthrough2.gif?v=1647061542104' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![X] <img src='https://cdn.glitch.global/3aaadf0a-5c6a-4335-b918-f23372c1a0bc/walkthrough3.gif?v=1647061544438' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='https://cdn.glitch.global/3aaadf0a-5c6a-4335-b918-f23372c1a0bc/walkthrough1.gif?v=1647061539628' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='https://cdn.glitch.global/3aaadf0a-5c6a-4335-b918-f23372c1a0bc/walkthrough2.gif?v=1647061542104' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='https://cdn.glitch.global/3aaadf0a-5c6a-4335-b918-f23372c1a0bc/walkthrough3.gif?v=1647061544438' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Reflection Questions
