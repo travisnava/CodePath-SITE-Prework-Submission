@@ -74,7 +74,9 @@ My next question is both simple and complicated, what makes a web page great? As
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+
+Going with my overall theme of Rick Astley, I figured that I would go the full mile and have some features that complement this theme. One feature that I had thought of would be that when the player successfully makes it to the end of the game, I would play the whole song "Never Gonna Give You Up" from start to finish. This way the snippets all come together, since the player only gets short clips of the song from the clue sequence playback throughout the game, I thought that this would tie in at the end nicely. Also I would have a few quality of life features, like a colorblind mode so that this web game would be inclusive to all. Also I would add a setting that the users could pick between a normal Light and Sound memory game, or the Rick Astley themed Light and Sound memory game. In the regular mode I could reincorporate the feature where the clue sequence speeds up every turn, whereas I decided against this in the Rick Astley themed version. As someone who avidly plays video games, I had thought of some other features that are common in fun web games from my childhood. Some of these features I would have tried to implement are maybe a past game history, so you could keep track if you won or lost in the last game. Also I could switch up which Rick Astley song it plays each time, to keep the user's experience always interactive and fun. I think my last feature would be a feedback option, incase whoever plays this game has great ideas or finds a bug within my game, I think it's important to always have feedback and to collaborate.
 
 
 
