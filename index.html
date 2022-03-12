@@ -62,12 +62,12 @@
         <!-- Instructions on using this project -->
         <div class="instructions">
           <p style = "text-align:center;">
-            Welcome to the Light and Sound Memory Game! To succeed in this game,
+            Welcome to the Rick Astley influenced Light and Sound Memory Game! To succeed in this game,
             repeat back the visual pattern by pressing the buttons. You have three strikes, good luck!
           </p>
           <!-- ADD BUTTON HERE -->
           <audio src="https://cdn.glitch.global/3aaadf0a-5c6a-4335-b918-f23372c1a0bc/Never%20Gonna%20Give%20You%20Up%20Original.mp3?v=1647058135537" id="NeverGonna"></audio>
-          <button id="startBtn" onclick="startGame(), clueHoldTime = 1000;" >Start</button>
+          <button id="startBtn" onclick="startGame(), clueHoldTime = 2000; NeverGonna.currentTime = 0">Start</button>
           <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
 
           <div id="gameButtonArea">

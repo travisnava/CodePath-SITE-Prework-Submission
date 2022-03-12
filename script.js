@@ -11,7 +11,7 @@ This is your site JavaScript code - you can add interactivity and carry out proc
 // global constants
 const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
-const patternLength = 10;
+const patternLength = 8;
 const maxPatternValue = 8;
 
 
@@ -21,7 +21,7 @@ var gamePlaying = false;
 var tonePlaying = false;
 var volume = 0.5; // only have values between 0.0 and 1.0
 var guessCounter = 0;
-var clueHoldTime = 1000; //how long to hold each clue's light/sound
+var clueHoldTime = 2000; //how long to hold each clue's light/sound
 var pattern = new Array(patternLength); 
 var numOfStrikes;
 
@@ -126,17 +126,17 @@ function playClueSequence(){
   for(let i=0;i<=progress;i++){ // for each clue that is revealed so far
     console.log("play single clue: " + pattern[i] + " in " + delay + "ms")
     setTimeout(playSingleClue,delay,pattern[i]) // set a timeout to play that clue
-    if (clueHoldTime > 100){
-      clueHoldTime -= 50;
-      delay += clueHoldTime;
-      delay += cluePauseTime;
-      console.log(clueHoldTime);
-    }
-    else{
+  //  if (clueHoldTime > 100){
+  //    clueHoldTime -= 50;
+  //    delay += clueHoldTime;      speeds up the clue playback each time, until it hits a constant rate 
+  //    delay += cluePauseTime;
+  //    console.log(clueHoldTime);
+  //  }
+    //else{
     console.log(clueHoldTime);
     delay += clueHoldTime;
     delay += cluePauseTime;
-    }
+    //}
 
   }
 }
