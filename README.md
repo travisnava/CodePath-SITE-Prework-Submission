@@ -6,8 +6,9 @@ Submitted by: **Travis Navarro**
 
 Time spent: **16** hours spent in total
 
-Link to project: https://believed-deserted-fountain.glitch.me/
-                 https://glitch.com/edit/#!/believed-deserted-fountain
+Link to project: 
+https://believed-deserted-fountain.glitch.me/ <br />
+https://glitch.com/edit/#!/believed-deserted-fountain
 
 ## Required Functionality
 
