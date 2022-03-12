@@ -59,8 +59,11 @@ https://careerkarma.com/blog/css-hide-element/<br />
 https://www.w3schools.com/tags/tag_img.asp<br />
 https://programminghead.com/how-to-play-audio-in-html-using-javascript/
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+
+
+As someone with limited web development experience, I found the tutorial very simple and easy to understand. However, my first challenge was within one of the optional features. The feature that gave me the most trouble was the one that seemed the easiest to implement, sprucing up the buttons by revealing an image when that button is pressed. As an image placeholder, I decided to use a classic picture of Rick Astley, known for his music and internet popularity as Rick Rolling online users. My issue came when I tried to implement the CSS rules to have Rick Astley hidden until the user pressed the button that he's on.  Again, as someone with limited background experience in web development, I found myself stumped and unsure how to implement this feature especially since I was unfamiliar with the syntax, but after thinking about the logic I then realized this feature should follow similar logic to how the button's color would change upon being pressed. My first reaction to encountering a problem is to read the documentation for things like <img>,CSS rules, and using the resources around me to familiarize myself with these new tools. After some research and trying different things, I was able to figure out how to set the initial visibility of the image to not be visible, by typing #img, then visibility:hidden.  By trying to follow the same logic that the buttons followed for changing colors when pressed, I was able to reason out that when the button is "active", or pressed, that the visibility for the img on that button should be visible. With all of the puzzle pieces figured out, and help with the syntax from various documentation, the implementation became much more clear, and I was finally able to correctly implement this feature. Throughout solving this issue I realized I wanted to keep my placeholder image of Rick Astley, and I decided to run with the overall theme of Rick Astley and his song Never Gonna Give You Up, and incorporating this well known internet joke into my game.
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
