@@ -49,14 +49,14 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-https://programminghead.com/how-to-play-audio-in-html-using-javascript/
-https://www.tutorialspoint.com/How-to-set-Text-alignment-in-HTML#:~:text=To%20set%20text%20alignment%20in%20HTML%2C%20use%20the%20style%20attribute,center%2C%20left%20and%20right%20alignment.
-https://www.wikihow.com/Code-an-Alert-with-a-Variable-Using-Javascript
-https://www.w3schools.com/tags/ref_colornames.asp
-https://mixkit.co/free-sound-effects/game/?page=2
-https://www.w3schools.com/howto/howto_css_rounded_images.asp
-https://careerkarma.com/blog/css-hide-element/
-https://www.w3schools.com/tags/tag_img.asp
+https://programminghead.com/how-to-play-audio-in-html-using-javascript/<br />
+https://www.tutorialspoint.com/How-to-set-Text-alignment-in-HTML#:~:text=To%20set%20text%20alignment%20in%20HTML%2C%20use%20the%20style%20attribute,center%2C%20left%20and%20right%20alignment.<br />
+https://www.wikihow.com/Code-an-Alert-with-a-Variable-Using-Javascript<br />
+https://www.w3schools.com/tags/ref_colornames.asp<br />
+https://mixkit.co/free-sound-effects/game/?page=2<br />
+https://www.w3schools.com/howto/howto_css_rounded_images.asp<br />
+https://careerkarma.com/blog/css-hide-element/<br />
+https://www.w3schools.com/tags/tag_img.asp<br />
 https://programminghead.com/how-to-play-audio-in-html-using-javascript/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
