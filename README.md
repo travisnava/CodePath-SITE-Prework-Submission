@@ -66,7 +66,12 @@ As someone with limited web development experience, I found the tutorial very si
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+
+As someone who looks forward to learning as much as they can about this area of coding, and whose only experience with web development is from middle school, creating this game was extremely eye opening and left me wondering a couple things. The first thought I had was, what does the process of web development look like in a team setting? I imagine that this process has the workload divided into three teams, a HTML, JavaScript, and CSS team. Each team would be responsible for their section, and I would guess that the heaviest workload comes from the JavaScript, which is the part enables the page to be interactive and functional. This was the area that I felt like I spent the most in while making this project, and naturally it made sense, as it is in charge of making the web page functional. As a student in Computer Science, naturally I hear the words frontend and backend thrown around and this is how I would imagine the workload is split up in web development, which is something I would absolutely love to learn about and have the opportunity to create something in a team setting with these newfound tools.
+
+My next question is both simple and complicated, what makes a web page great? As someone who's grown up in an era where the internet has always existed, I've found that web pages that were great had a few common features. Easy and accessible navigation, intuitive features, and clean and simple UI. Traversing a pleasing web page that works the way you would expect it to, and has features that make it easy to navigate, without cluttering up your whole screen, have been the web pages that I traditionally enjoy visiting the most. But as a web developer, I'm sure the definition of a great web page might differ a little. Whether that may be how fast a web page operates, or how stable it is, or even how minimal and clean the coding is kept, this is an insight I would surely love to learn from and incorporate into my own web pages some day.
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
