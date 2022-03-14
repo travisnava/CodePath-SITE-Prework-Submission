@@ -82,7 +82,7 @@ Going with my overall theme of Rick Astley, I figured that I would go the full m
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://psu.zoom.us/rec/share/26lmmh3nls7A2yCEkDb8_B_Vj12Liewx1c0mC9ilunBxUrbKwGD7m2kCOW6gOz45.7oQnu0AbeQBfueXs?startTime=1647229065000)
 
 
 ## License
