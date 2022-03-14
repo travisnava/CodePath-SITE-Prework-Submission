@@ -4,7 +4,7 @@
 
 Submitted by: **Travis Navarro**
 
-Time spent: **10** hours spent in total
+Time spent: **16** hours spent in total
 
 Link to project: 
 https://believed-deserted-fountain.glitch.me/ <br />
